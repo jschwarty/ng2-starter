@@ -1,0 +1,8 @@
+node_modules/
+typings/
+src/scripts/
+src/app/**/*.js
+src/app/**/*.js.map
+src/app/**/*.css
+src/app/**/*.css.map
+npm_debug*
